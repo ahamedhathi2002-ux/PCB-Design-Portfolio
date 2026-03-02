@@ -3,6 +3,7 @@
 A custom Arduino Uno Shield designed in Altium Designer to provide high-efficiency power to the Arduino Uno and additional high-power LEDs.
 
 ## Key Features
+- 2-layer SMD PCB design in Altium Designer
 - Fits exact dimensions of the Arduino Uno
 - 12V DC input with ≥90% efficiency regulation to 5V
 - Powers Arduino Uno and two 10W+ SMD LEDs (12V, parallel)
