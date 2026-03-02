@@ -8,7 +8,6 @@ This portfolio presents a collection of PCB design projects I have worked on, co
 |----------|------------|------------|
 | Controller-Unit-PCB | Data receiver and indicator board for a flood monitoring system | Signal Conditioning, ESP32 Integration |
 | Data-Unit-PCB | Data transmitter board for a flood monitoring system | Sensor Integration, ESP32 Communication |
-| Adjustable-Power-Supply-Board | Adjustable DC voltage regulator using LM317 | Voltage Regulation, Analog Circuit Design |
 
 ## 📂 Altium Projects
 
